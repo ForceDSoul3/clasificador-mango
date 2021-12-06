@@ -9,4 +9,4 @@ Es necesario seguir las instrucciones a continuación para poder
 ### `Ejecutar el programa`
 
 ## Colab donde se entrenó la red neuronal
-Acceda al siguiente enlace, será redirigido a la libreta donde se realizó el entrenamiento de la red neuronal, paso a paso (Colab)[https://colab.research.google.com/drive/1wXmHGVOENeb6Ew0yzCMLQx6Vs5rVZwak?usp=sharing]
+Acceda al siguiente enlace, será redirigido a la libreta donde se realizó el entrenamiento de la red neuronal, paso a paso [Colab](https://colab.research.google.com/drive/1wXmHGVOENeb6Ew0yzCMLQx6Vs5rVZwak?usp=sharing)
