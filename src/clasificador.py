@@ -8,9 +8,7 @@ modelo.summary()
 
 
 # import the opencv library
-import cv2
 import numpy as np
-
 
 def predecir(input):
     #Normalize the image
@@ -21,6 +19,8 @@ def predecir(input):
     return np.argmax(output[0])
 
 
+
+import cv2
 # define a video capture object
 vid = cv2.VideoCapture(0)
 
