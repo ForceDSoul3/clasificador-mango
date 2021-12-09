@@ -39,6 +39,7 @@ while(True):
     else:
         texto = 'Aceptable'
     
+    # Text configuration, font, size, position
     font = cv2.FONT_HERSHEY_SIMPLEX    
     cv2.putText(frame, texto, (7,70), font, 3, (100, 255, 0), 3, cv2.LINE_AA)
     
@@ -47,8 +48,7 @@ while(True):
     cv2.imshow('frame', frame)
     
     # the 'q' button is set as the
-    # quitting button you may use any
-    # desired button of your choice
+    # quitting button
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
     
